@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a925f4fa-778e-4600-b9b6-8845aa5b7720" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goals/index.html" afterPath="$PROJECT_DIR$/goals/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HW2/randomAddress.js" afterPath="$PROJECT_DIR$/HW2/randomAddress.js" />
     </list>
     <ignored path="fletchermaffett.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,13 +26,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HW3/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+            <state relative-caret-position="269">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="randomAddress.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HW2/randomAddress.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#50#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -78,11 +90,11 @@
         <option value="$PROJECT_DIR$/goals/index.html" />
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/HW1/99bottles.js" />
-        <option value="$PROJECT_DIR$/HW2/randomAddress.js" />
         <option value="$PROJECT_DIR$/HW3/madLib.js" />
         <option value="$PROJECT_DIR$/HW3/instructions.md" />
         <option value="$PROJECT_DIR$/HW3/js/madlib-console.js" />
         <option value="$PROJECT_DIR$/HW3/index.html" />
+        <option value="$PROJECT_DIR$/HW2/randomAddress.js" />
       </list>
     </option>
   </component>
@@ -335,12 +347,12 @@
       <updated>1476403814644</updated>
       <workItem from="1476403816820" duration="1288000" />
       <workItem from="1476405181493" duration="1669000" />
-      <workItem from="1477004520090" duration="8494000" />
+      <workItem from="1477004520090" duration="8755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11451000" />
+    <option name="totallyTimeSpent" value="11712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="36" width="1400" height="777" extended-state="0" />
@@ -389,16 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HW2/randomAddress.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#50#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goals/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -443,10 +445,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HW3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        <state relative-caret-position="269">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW2/randomAddress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
