@@ -5,10 +5,11 @@
 //Write a script that can create random addresses
 //Arrays to contain: Street Number, Street Name, City, State, Zip Code
 
-var streetNumbers = ["1456", "9485", "74", "2", "478", "8243", "534", "39", "57", "529", "7564", "493"];
+var streetNumbers = ["1456", "9485", "74", "2", "478", "8243", "534", "39", "57", "529", "7564", "493", "83", "9", "6530", "634"];
 var streetNames= ["Woodvale Dr.", "Runningpine Ln.", "Hollowpointe Ct.", "Waskerville Dr.", "Wayne Ave.", "Elsie St.", "Cricket Junction"];
-var cityNames = ["Atlanta", "Birmingham", "San Francisco", "Roswell", "New York", "Jonesburo", "Hillside", "Dale", "Nexus", "Aaronsburg", "Pittsburgh", "Amsterdam"];
-var stateAbbrevs = ["GA", "AL", "CO", "CA", "DE", "TX", "OH", "ME", "NV", "IA", "ID", "AR"];
+var cityNames = ["Atlanta", "Mooch River", "Moonshine", "Aces", "Traces", "Hopeulikit", "Birmingham", "San Francisco",
+    "Roswell", "New York", "Jonesburo", "Hillside", "Dale", "Nexus", "Aaronsburg", "Pittsburgh", "Amsterdam"];
+var stateAbbrevs = ["GA", "AL", "CO", "CA", "DE", "TX", "OH", "ME", "NV", "IA", "ID", "AR", "FL", "VA", "NM", "ND", "SD", "WY", "WI"];
 var zipCodes = ["30327", "50789", "34598", "09321", "48237", "09634", "12845", "76543", "39571", "87453", "29475", "98653", "75930"];
 
 var randAddress = streetNumbers[Math.floor((Math.random()*streetNumbers.length))] + " " +
