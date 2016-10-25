@@ -11,10 +11,10 @@ var cityNames = ["Atlanta", "Birmingham", "San Francisco", "Roswell", "New York"
 var stateAbbrevs = ["GA", "AL", "CO", "CA", "DE", "TX", "OH", "ME", "NV", "IA", "ID", "AR"];
 var zipCodes = ["30327", "50789", "34598", "09321", "48237", "09634", "12845", "76543", "39571", "87453", "29475", "98653", "75930"];
 
-var randAddress = streetNumbers[Math.round((Math.random()*streetNumbers.length))] + " " +
-                    streetNames[Math.round((Math.random()*streetNames.length))] + ", " +
-                    cityNames[Math.round((Math.random()*cityNames.length))] + ", " +
-                    stateAbbrevs[Math.round((Math.random()*stateAbbrevs.length))] + " " +
-                    zipCodes[Math.round((Math.random()*zipCodes.length))];
+var randAddress = streetNumbers[Math.floor((Math.random()*streetNumbers.length))] + " " +
+                    streetNames[Math.floor((Math.random()*streetNames.length))] + ", " +
+                    cityNames[Math.floor((Math.random()*cityNames.length))] + ", " +
+                    stateAbbrevs[Math.floor((Math.random()*stateAbbrevs.length))] + " " +
+                    zipCodes[Math.floor((Math.random()*zipCodes.length))];
 
 console.log(randAddress);
