@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a925f4fa-778e-4600-b9b6-8845aa5b7720" name="Default" comment="" />
+    <list default="true" id="a925f4fa-778e-4600-b9b6-8845aa5b7720" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myhubot/scripts/main.js" afterPath="$PROJECT_DIR$/myhubot/scripts/main.js" />
+    </list>
     <ignored path="fletchermaffett.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myhubot/scripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+            <state relative-caret-position="230">
+              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -281,12 +283,12 @@
       <workItem from="1477580523715" duration="1721000" />
       <workItem from="1477611072983" duration="8654000" />
       <workItem from="1478203001373" duration="1591000" />
-      <workItem from="1478572194960" duration="8459000" />
+      <workItem from="1478572194960" duration="8735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39045000" />
+    <option name="totallyTimeSpent" value="39321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="640" y="23" width="1280" height="773" extended-state="0" />
@@ -521,8 +523,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myhubot/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        <state relative-caret-position="230">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
           <folding />
         </state>
       </provider>
